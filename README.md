@@ -1,4 +1,4 @@
-BreakTaker App - https://breaktaker.outerx.ga
+BreakTaker App - [https://breaktaker.outerx.ga](https://xurcodebuddyx.github.io/BreakTakerWebsite/)
 
 hammer Looking for contributors hammer If you feel like getting involved, please get in contact!
 
